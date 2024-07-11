@@ -1,4 +1,4 @@
-# Little, Yau and Wong
+# A Little, Wong and Yau
 
 ## A journey through data science and all the bits we forgot to tell you about
 
