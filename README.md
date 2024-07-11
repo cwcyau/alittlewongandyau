@@ -4,7 +4,7 @@
 
 **Coming this Autumn 2024**
 
-This training course provides everything Yau need to know about health data: why does it go Wong, why do we have such Little impact? 
+This training course provides everything _Yau_ need to know about health data: why does it go _Wong_, why do we have such _Little_ impact? 
 
 This is a unique opportunity for doctoral students to learn from the bitter insights of three middle-aged men armed with decades worth of experience in what people now call "data science". 
 
