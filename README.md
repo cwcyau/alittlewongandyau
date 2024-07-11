@@ -4,7 +4,7 @@
 
 **Coming this Autumn 2024**
 
-This unique training course provides an opportunity for doctoral students to learn from the bitter insights of three middle-aged men armed with decades worth of experience in what people now call "data science". 
+This unique training course provides everything Yau need to know about health data: why does it go Wong, why do we have such Little impact? It is an opportunity for doctoral students to learn from the bitter insights of three middle-aged men armed with decades worth of experience in what people now call "data science". 
 
 Our ramblings will cover:
 
