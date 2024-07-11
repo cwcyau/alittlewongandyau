@@ -22,8 +22,8 @@ Sound interested? Register here to find out more.
 
 **Three grumpy old men:**
 
-[Max Little](https://research.birmingham.ac.uk/en/persons/max-little) is an Associate Professor in Computer Science at the University of Birmingham
+- [Max Little](https://research.birmingham.ac.uk/en/persons/max-little) is an Associate Professor in Computer Science at the University of Birmingham
 
-[David Wong](https://medicinehealth.leeds.ac.uk/medicine/staff/9808/dr-david-wong) is an Associate Professor of Health Data Science and Health Informatics
+- [David Wong](https://medicinehealth.leeds.ac.uk/medicine/staff/9808/dr-david-wong) is an Associate Professor of Health Data Science and Health Informatics
 
-[Christopher Yau](https://www.bdi.ox.ac.uk/Team/christopher-yau) is Professor of Artificial Intelligence at the University of Oxford
+- [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christopher-yau) is Professor of Artificial Intelligence at the University of Oxford
