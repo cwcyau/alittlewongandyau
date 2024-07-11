@@ -27,3 +27,7 @@ Sound interested? Register here to find out more.
 - [David Wong](https://medicinehealth.leeds.ac.uk/medicine/staff/9808/dr-david-wong) is an Associate Professor of Health Data Science and Health Informatics
 
 - [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christopher-yau) is Professor of Artificial Intelligence at the University of Oxford
+
+**Special guests:**
+
+Sign up and find out :P
